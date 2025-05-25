@@ -37,3 +37,48 @@ Open a terminal and run any script using:
 
 ```bash
 python3 script_name.py
+
+💼 Requirements
+✅ Python 3.x
+
+✅ No third-party libraries needed
+
+✅ Works on Windows, macOS, or Linux
+
+🎯 Learning Objectives
+Through this repository, I aimed to:
+
+✍️ Strengthen Python syntax and logic understanding
+
+💰 Apply real-world financial scenarios using code
+
+📐 Build mathematical confidence through practice
+
+🔁 Prepare for more complex ALX backend development tasks
+
+🙋 Author
+Developed by an aspiring software engineer as part of the ALX Ethiopia training program.
+Proudly contributing to open learning and continuous self-improvement. 💪
+
+📎 License
+This project is open-source and free to use for educational purposes.
+
+✨ Feel free to fork, use, and expand on it!
+
+⭐️ Bonus: Want to Practice More?
+Here are a few ideas to extend the project:
+
+Add error handling (e.g. try-except blocks)
+
+Include input validation
+
+Use functions or classes to refactor the scripts
+
+Add unit tests with unittest
+
+Made with ❤️ & Python.
+
+python
+Copy
+Edit
+
