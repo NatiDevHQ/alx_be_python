@@ -50,6 +50,57 @@ This repository includes:
 
 > 📌 Prerequisite: **Python 3.x** must be installed on your system.
 
+
+Example:
+
+bash
+Copy
+Edit
+python3 savings_calculator.py
+✅ No third-party libraries needed
+✅ Cross-platform: works on Windows, macOS, or Linux
+
+🎯 Learning Objectives
+This repository helped me:
+
+✍️ Strengthen my understanding of Python syntax and logic
+
+💰 Apply code to everyday financial decisions
+
+📐 Build confidence in working with mathematical expressions
+
+🔁 Prepare for more advanced topics in ALX’s backend development track
+
+🧠 Ideal For
+Beginners in Python 🐍
+
+ALX students or other coding learners
+
+Anyone who wants to practice with small, functional Python programs
+
+Educators looking for basic example scripts to teach programming logic
+
+🙋 Author
+Developed by an aspiring software engineer as part of the ALX Ethiopia training program.
+I’m proud to contribute to open education and continuous self-improvement.
+
+📎 License
+This project is open-source and licensed under the MIT License.
+Feel free to fork, use, and expand it!
+
+⭐️ Bonus: Practice Ideas
+Level up this project by:
+
+✨ Adding error handling with try/except
+
+🧪 Writing unit tests using Python’s unittest
+
+🔄 Refactoring using functions or classes
+
+✔️ Adding input validation
+
+📝 Documenting edge cases with comments or examples
+
 Open your terminal and run any script using:
 
 ```bash
