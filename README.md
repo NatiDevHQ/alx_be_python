@@ -121,5 +121,3 @@ Level up this project by:
 ```
 
 ---
-
-✅ If you'd like the README as a downloadable
