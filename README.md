@@ -122,4 +122,4 @@ Level up this project by:
 
 ---
 
-✅ If you'd like the README as a downloadable `.md` file, let me know and I’ll generate it 
+✅ If you'd like the README as a downloadable `.md` file, let me know and I’ll 
