@@ -1,4 +1,4 @@
-In now finished ......
+In now finished 
 
 ````markdown
 # 🐍 ALX Python Basics – Arithmetic, Finance & Conversion Scripts
